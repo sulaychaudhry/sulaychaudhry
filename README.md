@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! 👋
 
 <!--
 **sulaychaudhry/sulaychaudhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate computer scientist at the University of Warwick (MEng '27) with a love for theory, and an aspiring software engineer with broad interests across systems, optimisation and verification, and AI.
+
+---
+## What I'm working on 💼
+- **SMT-based Static Verifiers for C, C++, and Python: [ESBMC](https://ssvlab.github.io/esbmc/)** under the direction of Dr. Lucas. C. Cordeiro of the University of Manchester
+- **Third Year Project**: Neural Architectures for Recommendation Systems
+
+## My interests ✨
+**Tech:**
+- Python, Java, C, C++
+- Software Development
+- Optimisation and verification
+- Neural Networks, Machine Learning
+- Linux, Low-Level Systems, Networking
+
+**Non-tech:**
+- Reading philosophy 📖
+- Playing the guitar 🎸
+- Travelling 🗺️
+
+---
+**Find me here:** [LinkedIn](https://www.linkedin.com/in/sulaychaudhry/)
+
