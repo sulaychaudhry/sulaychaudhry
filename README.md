@@ -24,11 +24,12 @@ I'm a passionate computer scientist at the University of Warwick (MEng '27) with
 
 ## My interests ✨
 **Tech:**
-- Python, Java, C, C++
+- Python, Java, C#, C, C++
 - Software Development
 - Optimisation and verification
 - Neural Networks, Machine Learning
 - Linux, Low-Level Systems, Networking
+- Some experience in Go and Haskell!
 
 **Non-tech:**
 - Reading philosophy 📖
