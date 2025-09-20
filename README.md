@@ -19,7 +19,7 @@ I'm a passionate computer scientist at the University of Warwick (MEng '27) with
 
 ---
 ## What I'm working on 💼
-- **SMT-based Static Verifiers for C, C++, and Python: [ESBMC](https://ssvlab.github.io/esbmc/)** under the direction of Dr. Lucas. C. Cordeiro of the University of Manchester
+- **[Efficient SMT-based Bounded Model Checker (ESBMC)](https://ssvlab.github.io/esbmc)**: under the direction of Dr. Lucas C. Cordeiro of the University of Manchester
 - **Third Year Project**: Neural Architectures for Recommendation Systems
 
 ## My interests ✨
@@ -33,7 +33,7 @@ I'm a passionate computer scientist at the University of Warwick (MEng '27) with
 **Non-tech:**
 - Reading philosophy 📖
 - Playing the guitar 🎸
-- Travelling 🗺️
+- Travelling the world 🗺️
 
 ---
 **Find me here:** [LinkedIn](https://www.linkedin.com/in/sulaychaudhry/)
